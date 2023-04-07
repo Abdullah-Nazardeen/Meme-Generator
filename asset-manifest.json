@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Abdullah-Nazardeen/Meme-Generator/static/css/main.c7f71641.css",
-    "main.js": "/Abdullah-Nazardeen/Meme-Generator/static/js/main.40f37f19.js",
-    "index.html": "/Abdullah-Nazardeen/Meme-Generator/index.html",
-    "main.c7f71641.css.map": "/Abdullah-Nazardeen/Meme-Generator/static/css/main.c7f71641.css.map",
-    "main.40f37f19.js.map": "/Abdullah-Nazardeen/Meme-Generator/static/js/main.40f37f19.js.map"
+    "main.css": "/Meme-Generator/static/css/main.c7f71641.css",
+    "main.js": "/Meme-Generator/static/js/main.40f37f19.js",
+    "index.html": "/Meme-Generator/index.html",
+    "main.c7f71641.css.map": "/Meme-Generator/static/css/main.c7f71641.css.map",
+    "main.40f37f19.js.map": "/Meme-Generator/static/js/main.40f37f19.js.map"
   },
   "entrypoints": [
     "static/css/main.c7f71641.css",
